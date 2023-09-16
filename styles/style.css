@@ -223,6 +223,7 @@ ol {
   overflow-y: scroll;
   -ms-overflow-style: none;
   scrollbar-width: none;
+  position: relative;
 }
 
 .content__list::-webkit-scrollbar {
